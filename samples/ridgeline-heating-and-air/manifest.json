@@ -1,0 +1,64 @@
+{
+  "used_facts": {
+    "phone": {
+      "value": "(812) 555-0187",
+      "source": "synthetic:portfolio-sample"
+    },
+    "free_estimates": {
+      "value": true,
+      "source": "synthetic:portfolio-sample"
+    },
+    "services": [
+      {
+        "value": "Furnace repair",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "AC installation",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Heat pumps",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Seasonal tune-ups",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Ductless mini-splits",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "service_areas": [
+      {
+        "value": "Jasper",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Huntingburg",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Ferdinand",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "about": {
+      "value": "A two-truck family shop that answers its own phone. (Sample text for a fictional business.)",
+      "source": "synthetic:portfolio-sample"
+    }
+  },
+  "dropped_facts": [],
+  "content_hash": "360d356dca5396a3b0aff73cd487b736151d12ed4db8172a23026ae1cf0c4eee",
+  "files": [
+    "about.html",
+    "areas.html",
+    "contact.html",
+    "index.html",
+    "robots.txt",
+    "services.html",
+    "styles.css"
+  ],
+  "category": "hvac"
+}

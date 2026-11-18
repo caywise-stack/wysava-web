@@ -1,0 +1,52 @@
+{
+  "used_facts": {
+    "phone": {
+      "value": "(812) 555-0119",
+      "source": "synthetic:portfolio-sample"
+    },
+    "services": [
+      {
+        "value": "Weekly mowing",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Mulch & bed maintenance",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Aeration & seeding",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Leaf clean-up",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "service_areas": [
+      {
+        "value": "Mount Vernon",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Evansville",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "New Harmony",
+        "source": "synthetic:portfolio-sample"
+      }
+    ]
+  },
+  "dropped_facts": [],
+  "content_hash": "7822be8b8f4f8700ea1393e32019e4d3496ae7ffd2e68a120943f2e0a4018509",
+  "files": [
+    "about.html",
+    "areas.html",
+    "contact.html",
+    "index.html",
+    "robots.txt",
+    "services.html",
+    "styles.css"
+  ],
+  "category": "landscaping"
+}

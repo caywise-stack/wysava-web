@@ -1,0 +1,56 @@
+{
+  "used_facts": {
+    "phone": {
+      "value": "(812) 555-0163",
+      "source": "synthetic:portfolio-sample"
+    },
+    "free_estimates": {
+      "value": true,
+      "source": "synthetic:portfolio-sample"
+    },
+    "services": [
+      {
+        "value": "Wood privacy fences",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Vinyl fences",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Aluminum fences",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Gates & repairs",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "service_areas": [
+      {
+        "value": "Newburgh",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Evansville",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Chandler",
+        "source": "synthetic:portfolio-sample"
+      }
+    ]
+  },
+  "dropped_facts": [],
+  "content_hash": "9723d4e95d016f36925edb6a242a7874a7ee244f421fb21554b2ba775d322d52",
+  "files": [
+    "about.html",
+    "areas.html",
+    "contact.html",
+    "index.html",
+    "robots.txt",
+    "services.html",
+    "styles.css"
+  ],
+  "category": "general"
+}

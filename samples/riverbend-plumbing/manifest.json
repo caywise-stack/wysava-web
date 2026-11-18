@@ -1,0 +1,76 @@
+{
+  "used_facts": {
+    "phone": {
+      "value": "(812) 555-0142",
+      "source": "synthetic:portfolio-sample"
+    },
+    "email": {
+      "value": "office@riverbend-plumbing.example",
+      "source": "synthetic:portfolio-sample"
+    },
+    "emergency_service": {
+      "value": true,
+      "source": "synthetic:portfolio-sample"
+    },
+    "since_year": {
+      "value": "1998",
+      "source": "synthetic:portfolio-sample"
+    },
+    "services": [
+      {
+        "value": "Water heater repair & replacement",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Drain cleaning",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Leak detection",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Sump pumps",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Bathroom plumbing updates",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "service_areas": [
+      {
+        "value": "Evansville",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Newburgh",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Boonville",
+        "source": "synthetic:portfolio-sample"
+      },
+      {
+        "value": "Darmstadt",
+        "source": "synthetic:portfolio-sample"
+      }
+    ],
+    "hours": {
+      "value": "Mon\u2013Fri 7am\u20136pm; emergencies 24/7",
+      "source": "synthetic:portfolio-sample"
+    }
+  },
+  "dropped_facts": [],
+  "content_hash": "5e88c327c10c28e692ae586ff6899ffa78ce327789461c4dc0b70e37569ed88b",
+  "files": [
+    "about.html",
+    "areas.html",
+    "contact.html",
+    "index.html",
+    "robots.txt",
+    "services.html",
+    "styles.css"
+  ],
+  "category": "plumbing"
+}
